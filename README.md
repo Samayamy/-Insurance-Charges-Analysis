@@ -24,7 +24,7 @@ The dashboard visualizes key metrics and breakdowns such as:
 - **Demographics distribution (age, smoker/non-smoker, children)**
 - **BMI comparison by gender and smoking behavior**
 
-![Insurance Charges Dashboard](./Insurance%20charges%20Analysis%20.png)
+
 
 ---
 
